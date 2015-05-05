@@ -4,6 +4,8 @@ A Web app to teach children ages 10 to 13 about simple digital circuits. (Curren
 
 This project was initially created by Dr. Carl Burch. I worked on this project as an odyssey project at Hendrix College. More information can be found at http://www.cburch.com/may/
 
+Play the game with the current version at http://www.electras.org/
+
 # The internal API as planned
 Electra's API
 
