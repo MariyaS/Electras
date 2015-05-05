@@ -1,10 +1,22 @@
 # Electras
 
-A Web app to teach children ages 10 to 13 about simple digital circuits. (Currently under development). This repository was originally at https://code.google.com/p/electras/
+A Web app to teach children ages 10 to 13 about simple digital circuits. This repository was originally at https://code.google.com/p/electras/
 
 This project was initially created by Dr. Carl Burch. I worked on this project as an odyssey project at Hendrix College. More information can be found at http://www.cburch.com/may/
 
 Play the game with the current version at http://www.electras.org/
+
+# Contributors
+ * Megan Childress (graphics designer)
+ * Justin John (audio designer & developer)
+ * Thierry Kimenyi (developer)
+ * Sung Oh (developer)
+ * Concorde Habineza (developer)
+ * Brandon McNew (developer)
+ * Jeanette Inema (developer)
+ * Jeffrey Biles (developer)
+ * Safari Sibomana (developer)
+ * Pierre Urisanga (developer)
 
 # The internal API as planned
 Electra's API
