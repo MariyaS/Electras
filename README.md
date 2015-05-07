@@ -2,7 +2,7 @@
 
 A Web app to teach children ages 10 to 13 about simple digital circuits. This repository was originally at https://code.google.com/p/electras/
 
-This project was initially created by Dr. Carl Burch. I worked on this project as an odyssey project at Hendrix College. More information can be found at http://www.cburch.com/may/
+This project was initially created by Dr. Carl Burch. http://www.cburch.com
 
 Play the game with the current version at http://www.electras.org/
 
