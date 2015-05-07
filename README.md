@@ -80,4 +80,6 @@ FactoryFloor object
 
 * Tutorial object
 
+# License
 
+These apps are released under the GPLv3 license. You can browse the original code on which it is based at http://code.google.com/p/electras/.
